@@ -1,0 +1,9 @@
+# Using Command Prompt
+set NODE_ENV=development
+set PORT=3000
+npx tsx server/index.ts
+
+# Using PowerShell
+$env:NODE_ENV = "development"
+$env:PORT = "3000"
+npx tsx server/index.ts
