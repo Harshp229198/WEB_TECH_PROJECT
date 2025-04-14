@@ -4,12 +4,12 @@ A modern, responsive music streaming application built with React and Express.
 
 ## Features
 
-- 🎵 Music player with playback controls
-- 🔍 Search functionality for tracks, artists, and albums
-- 📚 Library management for saved music
-- 👤 User authentication system
-- 📱 Responsive design for all devices
-- 🌙 Dark-themed interface
+- Music player with playback controls
+- Search functionality for tracks, artists, and albums
+- Library management for saved music
+- User authentication system
+- Responsive design for all devices
+- Dark-themed interface
 
 ## Tech Stack
 
