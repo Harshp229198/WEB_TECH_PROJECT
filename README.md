@@ -14,9 +14,7 @@ A modern, responsive music streaming application built with React and Express.
 ## Tech Stack
 
 - **Frontend**: React, Bootstrap, TanStack Query
-- **Backend**: Express.js, Passport.js
-- **Database**: Prepared for PostgreSQL with Drizzle ORM
-- **Authentication**: Session-based with Passport.js
+- **Backend**: Express.js
 
 ## Getting Started
 
